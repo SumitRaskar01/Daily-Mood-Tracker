@@ -32,7 +32,10 @@ This is a simple web-based Mood Tracker that allows users to log their daily moo
 - Add a visual representation of mood trends (charts/graphs).
 - Implement user authentication for personalized tracking.
 
-##Screenshot
+## Screenshot
+![Mood Tracker Screenshot](Screenshot-1.png)
+![Mood Tracker Screenshot](Screenshot-2.png)
+
 
 ## Author
 Developed by Sumit Raskar
